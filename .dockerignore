@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.bak
+*.tmp
+.env
+venv/
+.env.local
+.idea/
+.DS_Store
+.git/
+.gitignore
+# model.h5
